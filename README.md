@@ -26,6 +26,7 @@
 <a href="https://instagram.com/vaibhavv_nirmal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vaibhavv_nirmal_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@vaibhavnirmal201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@vaibhavnirmal201" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vaibhavnirmal2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vaibhavnirmal2001" height="30" width="40" /></a>
+  <a href="https://https://nodejs.org/en//user/vaibhavnirmal2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nodejs.svg" alt="vaibhavnirmal2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
