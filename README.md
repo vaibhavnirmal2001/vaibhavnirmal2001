@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vaibhavnirmal2001@gmail.com**
 
-- ⚡ fact **I love Programming and Development both equally**
+- ⚡ fact **I ... **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
