@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Nirmal</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav_Nirmal</h1>
 <h3 align="center">I am a second year student pursuing B- TECH IT at Government College Of Engineering Amravati Campus. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavnirmal2001&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavnirmal2001" /> </p>
