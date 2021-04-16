@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vaibhavnirmal2001@gmail.com**
 
-- ⚡ Portfolio :  [https://vaibhavnirmal2001.github.io/portfolio.github.io/](https://vaibhavnirmal2001.github.io/portfolio.github.io/)
+- ⚡ Portfolio :  [https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/](https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/)
 
 
 
