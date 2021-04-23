@@ -1,6 +1,6 @@
 <h1 align="center">Hiee.., Myself <a href="https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/">Vaibhav_Nirmal</a></h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h3 align="center">I am a second year student pursuing B- TECH IT at Government College Of Engineering Amravati Campus. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.</h3>
+<h3 align="center">I am a second year student pursuing B- TECH (IT) at <a href="https://gcoea.ac.in/">Government College Of Engineering Amravati </a> Campus. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavnirmal2001&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavnirmal2001" /> </p>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Programming & Web-Development**
 
-- 🌱 I’m currently learning **Programming & Development**
+- 🌱 I’m currently learning **Programming & Web-Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaibhavnirmal2001](https://github.com/vaibhavnirmal2001)
 
