@@ -26,7 +26,7 @@
 <a href="https://codepen.io/@vaibhavnirmal2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@vaibhavnirmal2001" height="30" width="40" /></a>
 <a href="https://dev.to/vaibhavnirmal16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vaibhavnirmal16" height="30" width="40" /></a>
 <a href="https://twitter.com/vaibhavnirmal16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vaibhavnirmal16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav nirmal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vaibhav nirmal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaibhav-nirmal-749a76195/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vaibhav nirmal" height="30" width="40" /></a>
 <a href="https://www.facebook.com/vaibhav.nirmal.900" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vaibhav nirmal" height="30" width="40" /></a>
 <a href="https://instagram.com/v_a_i_bhavv_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="v_a_i_bhavv_" height="30" width="40" /></a>
 <a href="https://medium.com/vaibhavnirmal2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="vaibhavnirmal2001" height="30" width="40" /></a>
