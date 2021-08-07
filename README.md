@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/](https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/)
 
-- 📝 I regularly write articles on [https://vaibhavnirmal2001.medium.com/](https://vaibhavnirmal2001.medium.com/)
+- 📝 I write Tech articles on [https://vaibhavnirmal2001.medium.com/](https://vaibhavnirmal2001.medium.com/)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend & Backend Development**
 
-- 📫 How to reach me **https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/**
+- 📫 Connect me **https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/**
 
 - 📄 Know about my experiences [https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/](https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/)
 
