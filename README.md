@@ -30,7 +30,7 @@
 
 <hr/>
 
-<h3 align="left">•<img alt="Computer" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/3577/3577497.svg"/>Languages and Tools:</h3>
+<h3 align="left">•Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.mysql.com/" target="_blank"> 
 •<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> 
@@ -54,7 +54,7 @@
 <hr/>
 
 
-<h3 align="left">•<img alt="Computer" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/3577/3577497.svg"/>Connect with me:</h3>
+<h3 align="left">•Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vaibhavnirmal2001" target="blank">•<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vaibhavnirmal2001" height="30" width="40" /></a>
 <a href="https://twitter.com/vaibhavnirmal16" target="blank">•<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavnirmal16" height="30" width="40" /></a>
