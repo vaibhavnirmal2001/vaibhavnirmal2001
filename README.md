@@ -31,6 +31,7 @@
 
 <hr/>
 
+..
 <h3 align="left">•Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.mysql.com/" target="_blank"> 
