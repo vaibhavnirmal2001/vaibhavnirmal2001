@@ -3,7 +3,7 @@
 <b>Connect:</b> <a href="mailto:vaibhavnirmal2001@gmail.com">vaibhavnirmal2001@gmail.com</a>
 <br>
 
-<b>2021 GitHub Skyline</b> <a href="https://skyline.github.com/vaibhavnirmal2001/2021">vaibhavnirmal2001@gmail.com</a>
+ <a href="https://skyline.github.com/vaibhavnirmal2001/2021"><b>2021 GitHub Skyline</b></a>
 <br>
 
 
