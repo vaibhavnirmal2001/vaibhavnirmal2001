@@ -3,7 +3,7 @@
 <b>Connect:</b> <a href="mailto:vaibhavnirmal2001@gmail.com">vaibhavnirmal2001@gmail.com</a>
 <br>
 
- <a href="https://skyline.github.com/vaibhavnirmal2001/2021"><b>2021 GitHub Skyline</b></a>
+ 
 <br>
 
 
@@ -17,8 +17,8 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=vaibhavnirmal2001&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavnirmal2001&theme=omni&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavnirmal2001&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavnirmal2001&theme=omni&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavnirmal2001&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
