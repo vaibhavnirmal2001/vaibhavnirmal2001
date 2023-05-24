@@ -1,5 +1,5 @@
 # 💫 Hii there.. 
-<b>This is <a href="https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/" target ="_blank">Vaibhav Nirmal! </a> Final year B.Tech (IT) Student At GCOEA.</b> Currently I'm looking for a challenging role in a reputable organization to utilize my technical and interpersonal skills for growth of the organization as well as to enhance my knowledge of new and emerging trends in the IT sector.<br>
+<b>This is <a href="https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/" target ="_blank">Vaibhav Nirmal! </a> </b> Currently I'm looking for a challenging role in a reputable organization to utilize my technical and interpersonal skills for growth of the organization as well as to enhance my knowledge of new and emerging trends in the IT sector.<br>
 <b>Connect:</b> <a href="mailto:vaibhavnirmal2001@gmail.com">vaibhavnirmal2001@gmail.com</a>
 <br>
 <b>About me: </b> <a href="https://linktr.ee/vaibhavnirmal2001">LinkTree</a>
