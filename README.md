@@ -6,6 +6,7 @@
 <br>
 
 
+<!--
 ## 💻🌐 Technical, Coding & Social Profiles: <img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" height="38" data-canonical-src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-12100E?logo=Leetcode&logoColor=white)](https://leetcode.com/vaibhavn2001/)
@@ -23,13 +24,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=vaibhavnirmal2001&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavnirmal2001&theme=omni&hide_border=false)
 
-<!--
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavnirmal2001&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavnirmal2001&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- ### 😂 Random Dev Meme
+ ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>-->
 
 ---
