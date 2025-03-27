@@ -1,11 +1,22 @@
 #  Hii there.. 
-<b>This is <a href="https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/" target ="_blank">Vaibhav Nirmal! </a> </b> Currently I'm looking for a challenging role in a reputable organization to utilize my technical and interpersonal skills for growth of the organization as well as to enhance my knowledge of new and emerging trends in the IT sector.<br>
+<b>This is <a href="https://vaibhavnirmal2001.github.io/portfolio/" target ="_blank">Vaibhav Nirmal! </a> </b> Hi, I'm Vaibhav, a Digital Application Developer rocking it at Blue Altair.
+
+I am a passionate Software Developer with more than 2 years of experience in full-stack development, specializing in Angular, Spring Boot and Flutter. Currently, I’m expanding my expertise with FastAPI and ReactJS. My work at Blue Altair India Ltd. has equipped me with the skills to develop robust web and mobile applications, focusing on delivering seamless user experiences and efficient API integrations.
+
+I thrive in environments that challenge me to solve complex problems, whether it’s developing comprehensive HR systems or winning hackathons. I’m continuously learning and staying updated with the latest technologies, and I’m committed to creating innovative solutions that drive business success.
+
+Outside of the coding universe, you'll find me kicking it on the football field. Yep, I love playing football.
+
+Always on the lookout for the latest tech trends, I dive into real-world projects to keep learning and growing. Can't wait to connect with fellow developers, swap stories, and maybe even kick a ball around! <br>
 <b>Connect:</b> <a href="mailto:vaibhavnirmal2001@gmail.com">vaibhavnirmal2001@gmail.com</a>
+<br>
+<b>Portfolio: </b> <a href="https://vaibhavnirmal2001.github.io/portfolio/">vaibhavnirmal2001.github.io/portfolio/</a>
 <br>
 <b>About me: </b> <a href="https://linktr.ee/vaibhavnirmal2001">LinkTree</a>
 <br><br>
 <hr>
 
+<!--
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -14,7 +25,7 @@
 ![](https://komarev.com/ghpvc/?username=vaibhavnirmal2001)
 
 <hr>
-<!--
+
 ## 💻🌐 Technical, Coding & Social Profiles: <img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" height="38" data-canonical-src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-12100E?logo=Leetcode&logoColor=white)](https://leetcode.com/vaibhavn2001/)
